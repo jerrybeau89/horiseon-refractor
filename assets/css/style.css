@@ -143,7 +143,7 @@ div.hero img{
     font-size: 20px;
 }
 
-/* CSS to make the code more accessible to devices with less than 768px */
+/* CSS to make the code more accessible when browser is resized, stacks the nav links and fixes them to the right-top */
  @media screen and (max-width: 768px) {
     
     .header nav {   
